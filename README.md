@@ -14,7 +14,7 @@ The data for this assignment come in the form of a comma-separated-value file co
 
 There is also some documentation of the database available. Here you will find how some of the variables are constructed/defined.
     
-[Data Documentation]: https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf
+[Data Documentation] (https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf)
 
 National Climatic Data Center Storm Events FAQ
 
